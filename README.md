@@ -10,7 +10,7 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
-[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true)](https://github.com/Drebedenb/github-readme-stats)
+[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
 
 JavaScript TypeScript
 
