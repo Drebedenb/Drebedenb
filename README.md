@@ -17,6 +17,8 @@ JavaScript TypeScript
 React
 
 Tailwind Bootstrap Git
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Drebedenb&repo=github-readme-stats&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
 <!--
 **Drebedenb/Drebedenb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
