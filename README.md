@@ -17,17 +17,8 @@ JavaScript TypeScript
 React
 
 Tailwind Bootstrap Git
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drebedenb&layout=compact&theme=great-gatsby&hide=php)](https://github.com/Drebedenb/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Drebedenb&repo=github-readme-stats&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
-
-
-<a href="https://github.com/Drebedenb/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Drebedenb&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Drebedenb/Site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Drebedenb&repo=Site" />
-</a>
 <!--
 **Drebedenb/Drebedenb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
