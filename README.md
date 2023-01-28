@@ -14,7 +14,7 @@
 <!-- [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)] -->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=d68c20)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=d68c20)
-![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP&logoColor=007396&logoColor=d68c20)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP&logoColor=d68c20)
 
 
 [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
