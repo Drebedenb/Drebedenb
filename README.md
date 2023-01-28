@@ -9,12 +9,12 @@
 *🛠 Languages & Tools*
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=white)
 <!-- [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)] -->
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)]
-[![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white)]
-[![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP&logoColor=007396&logoColor=white)]
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP&logoColor=007396&logoColor=white)
 
 
 [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
