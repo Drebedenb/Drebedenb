@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ## 👨‍💻 About me
 
@@ -42,3 +42,9 @@
 [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
 
 ---
+
+## 📲 Contact me
+
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=d68c20)](https://t.me/CaptainGains22)
+<a href="mailto:danila.kuzya2011@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=d68c20)</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=d68c20)](https://www.linkedin.com/in/danila-kuznetsov-61a6491b1/)
