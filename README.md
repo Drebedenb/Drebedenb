@@ -17,6 +17,7 @@ JavaScript TypeScript
 React
 
 Tailwind Bootstrap Git
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Drebedenb&repo=github-readme-stats&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
 <!--
