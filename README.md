@@ -41,9 +41,6 @@
 
 [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
 
----
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drebedenb&theme=great-gatsby&background=000000)](https://git.io/streak-stats)
 
 
