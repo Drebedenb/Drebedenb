@@ -43,6 +43,12 @@
 
 ---
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drebedenb&theme=great-gatsby&background=000000)](https://git.io/streak-stats)
+
+
+---
+
 ## 📲 Contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=d68c20)](https://t.me/CaptainGains22)
