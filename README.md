@@ -1,13 +1,3 @@
-## Hi there 👋
-
-## 👨‍💻 About me
-
-👶 I'm a junior frontend developer.
-
-🎓 4th year student out of 4. My major is programming engineering.
-
-⚡ In my free time i read articles about programming and watch English videos.
-
 ---
 
 ## 🛠 Languages & Tools
