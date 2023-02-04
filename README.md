@@ -1,5 +1,3 @@
----
-
 ## 🛠 Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-000.svg?style=for-the-badge&logo=html5&logoColor=d68c20)
@@ -21,8 +19,6 @@
 ![Redux](https://img.shields.io/badge/-redux-000?style=for-the-badge&logo=redux&logoColor=d68c20)
 
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drebedenb&layout=compact&theme=great-gatsby&hide=php)](https://github.com/Drebedenb/github-readme-stats)
 
 ---
@@ -35,8 +31,6 @@
 
 
 ---
-
-## 📲 Contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=d68c20)](https://t.me/CaptainGains22)
 <a href="mailto:danila.kuzya2011@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=d68c20)</a>
