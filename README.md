@@ -19,7 +19,7 @@
 ![Redux](https://img.shields.io/badge/-redux-000?style=for-the-badge&logo=redux&logoColor=d68c20)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drebedenb&layout=compact&theme=great-gatsby&hide=php&blade)](https://github.com/Drebedenb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drebedenb&layout=compact&theme=great-gatsby&hide=php&hide=blade)](https://github.com/Drebedenb/github-readme-stats)
 
 ## 🔥 My stats
 
