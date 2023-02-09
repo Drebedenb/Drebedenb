@@ -27,9 +27,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drebedenb&theme=great-gatsby&background=000000)](https://git.io/streak-stats)
 
-
----
-
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=d68c20)](https://t.me/CaptainGains22)
 <a href="mailto:danila.kuzya2011@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=d68c20)</a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=d68c20)](https://www.linkedin.com/in/danila-kuznetsov/)
