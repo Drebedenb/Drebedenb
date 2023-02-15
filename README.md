@@ -6,7 +6,6 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind&nbsp;CSS-000?style=for-the-badge&logo=TailwindCSS&logoColor=d68c20)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=d68c20)
-<!-- [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)] -->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=d68c20)
 
 
