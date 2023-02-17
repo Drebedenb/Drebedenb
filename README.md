@@ -10,6 +10,7 @@
 
 
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=d68c20)
+
 ![Node](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node.js&logoColor=d68c20)
 
 ![React](https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=d68c20)
