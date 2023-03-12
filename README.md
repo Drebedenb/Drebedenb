@@ -1,6 +1,7 @@
 ## 🛠 Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-000.svg?style=for-the-badge&logo=html5&logoColor=d68c20)
+
 ![CSS3](https://img.shields.io/badge/css3-000.svg?style=for-the-badge&logo=css3&logoColor=d68c20)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=d68c20)
 ![Tailwind](https://img.shields.io/badge/-Tailwind&nbsp;CSS-000?style=for-the-badge&logo=TailwindCSS&logoColor=d68c20)
