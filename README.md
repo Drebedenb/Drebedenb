@@ -17,7 +17,7 @@
 ![React](https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=d68c20)
 
 ![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=d68c20)
-![Redux](https://img.shields.io/badge/-redux-000?style=for-the-badge&logo=redux&logoColor=d68c20)
+<!-- ![Redux](https://img.shields.io/badge/-redux-000?style=for-the-badge&logo=redux&logoColor=d68c20) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drebedenb&layout=compact&theme=great-gatsby&hide=php,blade)](https://github.com/Drebedenb/github-readme-stats)
