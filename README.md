@@ -1,4 +1,4 @@
-## 🛠 Languages & Tools
+## 🛠 Languages & Tool
 
 ![HTML5](https://img.shields.io/badge/html5-000.svg?style=for-the-badge&logo=html5&logoColor=d68c20)
 
