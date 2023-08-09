@@ -1,23 +1,19 @@
 ## 🛠 Languages & Tools
 
-![HTML5](https://img.shields.io/badge/html5-000.svg?style=for-the-badge&logo=html5&logoColor=d68c20)
-
-![CSS3](https://img.shields.io/badge/css3-000.svg?style=for-the-badge&logo=css3&logoColor=d68c20)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=d68c20)
-![Tailwind](https://img.shields.io/badge/-Tailwind&nbsp;CSS-000?style=for-the-badge&logo=TailwindCSS&logoColor=d68c20)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=d68c20)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=d68c20)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=d68c20)
 
-
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=d68c20)
 
 ![Node](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node.js&logoColor=d68c20)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django&logoColor=d68c20)
 
-![React](https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=d68c20)
-
+![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=d68c20)
 ![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=d68c20)
-<!-- ![Redux](https://img.shields.io/badge/-redux-000?style=for-the-badge&logo=redux&logoColor=d68c20) -->
+![linux](https://img.shields.io/badge/linux-000?style=for-the-badge&logo=linux&logoColor=d68c20)
+![docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=d68c20)
 
 
 
@@ -25,6 +21,7 @@
 ## 🔥 My stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drebedenb&layout=compact&theme=great-gatsby&hide=php,blade)](https://github.com/Drebedenb/github-readme-stats)
+[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
 <!-- [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats) -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drebedenb&theme=great-gatsby&background=000000)](https://git.io/streak-stats)
