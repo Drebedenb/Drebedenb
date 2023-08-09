@@ -20,7 +20,8 @@
 
 ## 🔥 My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drebedenb&layout=compact&theme=great-gatsby&hide=php,blade)](https://github.com/Drebedenb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drebedenb&layout=compact&theme=great-gatsby&hide=php,blade,html,css)](https://github.com/Drebedenb/github-readme-stats)
+
 [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
 <!-- [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats) -->
 
