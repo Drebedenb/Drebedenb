@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drebedenb&layout=compact&theme=great-gatsby&hide=php,blade,html,css&exclude_repo=tages_test,backend-hightech-digit,stocks-profit,frontend-hightech-digit,horoscope_telegram,SocialMediaReact,Stopwatch,Site,crm-tablet)](https://github.com/Drebedenb/github-readme-stats)
 
-[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
+[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=false&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats)
 <!-- [![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drebedenb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/Drebedenb/github-readme-stats) -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drebedenb&theme=great-gatsby&background=000000)](https://git.io/streak-stats)
