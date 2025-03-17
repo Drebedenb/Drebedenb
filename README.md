@@ -2,12 +2,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=d68c20)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=d68c20)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=d68c20)
-
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=d68c20)
 
-![Node](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node.js&logoColor=d68c20)
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django&logoColor=d68c20)
 
 ![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=d68c20)
